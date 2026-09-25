@@ -18,7 +18,7 @@ public class T2E9 {
         // TODO code application logic here
 
         
-        double longitud = (PI * 3.14) * 2; // sacamos la longitud
+        double longitud = PI * 3.55 * 2; // sacamos la longitud
         System.out.println("La longitud de una circunferencia cuyo radio vale 3 sería igual a: " + longitud);
         
     }
